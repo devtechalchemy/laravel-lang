@@ -3,6 +3,10 @@
     "description": "Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
+    "require": {
+        "php": ">=7.1"
+        
+    },
     "authors": [
         {
             "name": "Surabhi",
